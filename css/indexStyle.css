@@ -1,0 +1,38 @@
+.borderSolid {
+	border: 1px solid black;
+	height: 600px;
+	width: 1000px;
+}
+
+.wrapp {
+	margin-top: 70px;
+	margin-left: 70px;
+}
+
+.imagesSize {
+	height: 150px;
+}
+
+#image1 {
+	position: fixed;
+	top: 120px;
+	left: 100px;
+}
+
+#image2 {
+	position: fixed;
+	top: 120px;
+	left: 350px;
+}
+
+#image3{
+	position: fixed;
+	top: 120px;
+	left: 600px;
+}
+
+#image4 {
+	position: fixed;
+	top: 120px;
+	left: 850px;
+}
